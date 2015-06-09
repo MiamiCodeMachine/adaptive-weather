@@ -26,12 +26,12 @@
                         </subviews>
                         <color key="backgroundColor" red="0.29019607843137252" green="0.6705882352941176" blue="0.96862745098039216" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="DXi-0e-ref" secondAttribute="bottom" id="BiR-vl-wiz"/>
-                            <constraint firstAttribute="trailing" secondItem="DXi-0e-ref" secondAttribute="trailing" id="Kft-6r-zfP"/>
-                            <constraint firstAttribute="centerX" secondItem="Org-OP-E2Z" secondAttribute="centerX" id="iyn-do-aJw"/>
-                            <constraint firstItem="Org-OP-E2Z" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" id="uLl-dP-YbD"/>
-                            <constraint firstItem="DXi-0e-ref" firstAttribute="top" secondItem="Org-OP-E2Z" secondAttribute="bottom" constant="20" id="wPk-UD-oUb"/>
-                            <constraint firstItem="DXi-0e-ref" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="xtK-Y8-U9B"/>
+                            <constraint firstItem="Org-OP-E2Z" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" id="LOt-Bm-W9x"/>
+                            <constraint firstItem="DXi-0e-ref" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="Qw9-DQ-xCb"/>
+                            <constraint firstAttribute="centerX" secondItem="Org-OP-E2Z" secondAttribute="centerX" id="h5C-1g-gEq"/>
+                            <constraint firstAttribute="trailing" secondItem="DXi-0e-ref" secondAttribute="trailing" id="ley-jj-o23"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="DXi-0e-ref" secondAttribute="bottom" id="tFo-I0-vet"/>
+                            <constraint firstItem="DXi-0e-ref" firstAttribute="top" secondItem="Org-OP-E2Z" secondAttribute="bottom" constant="20" id="uo5-Bt-V8t"/>
                         </constraints>
                     </view>
                 </viewController>
